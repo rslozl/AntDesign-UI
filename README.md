@@ -68,8 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ## DASHBOARD
-![Screenshot](https://raw.githubusercontent.com/rslozl/Spring-Boot-E-Commerce/master/satis.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/AntDesign-UI/master/pc-1.png)
 
-![Screenshot](https://raw.githubusercontent.com/rslozl/Spring-Boot-E-Commerce/master/satis.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/AntDesign-UI/master/pc-2.png)
 
-![Screenshot](https://raw.githubusercontent.com/rslozl/Spring-Boot-E-Commerce/master/satis.png)
+![Screenshot](https://raw.githubusercontent.com/rslozl/AntDesign-UI/master/pc-3.png)
